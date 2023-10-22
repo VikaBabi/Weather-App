@@ -1,0 +1,82 @@
+#form1 {
+  font-family: "Nunito", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  text-decoration: none;
+  margin: 20px 140px;
+  padding: 30px 150px 30px 30px;
+}
+
+header {
+  display: block;
+  margin: 0px 280px;
+  padding-left: 90px;
+  font-family: "Nunito", sans-serif;
+}
+
+h1 {
+  color: black;
+  font-size: 80px;
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.current,
+.condition {
+  color: #8064e9;
+  font-size: 25px;
+}
+
+.temperaturecurrent {
+  font-weight: bolder;
+  position: relative;
+  left: 280px;
+  top: -150px;
+  font-size: 100px;
+}
+
+.btn {
+  font-weight: normal;
+  position: relative;
+  bottom: 100px;
+  left: 440px;
+  top: -300px;
+  padding: 1px 6px;
+  font-size: 0.9em;
+  color: black;
+}
+.btn:hover {
+  background-color: #8064e9;
+}
+
+.weekblock {
+  padding-left: 200px;
+  margin: 0px 140px;
+}
+
+.days {
+  color: #808080;
+  font-weight: bolder;
+  font-size: 26px;
+  font-family: "Nunito", sans-serif;
+}
+
+.emoji {
+  font-size: 30px;
+  position: relative;
+  left: 8px;
+  font-family: "Nunito", sans-serif;
+}
+
+.temperature {
+  font-size: 24px;
+  position: relative;
+  font-family: "Nunito", sans-serif;
+}
+
+hr {
+  border-width: 5px;
+  margin: 20px 320px 20px 280px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
